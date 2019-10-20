@@ -78,3 +78,5 @@ end
 gem 'devise'
 
 gem 'simple_form'
+
+gem 'rubocop', '~> 0.75.1', require: false
